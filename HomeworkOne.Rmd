@@ -49,6 +49,7 @@ My favorite webpage is [Google](https://www.google.com/)
 3 < 4
 ```
 
+**Question 9** With $LaTeX$ write your favorite equation in block form.
 
 
 
