@@ -13,3 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Question 1** With Markdown write a sentence that has one word in bold.
 
+My name is **Aysel**.
