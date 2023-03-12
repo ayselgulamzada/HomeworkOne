@@ -45,3 +45,10 @@ My favorite webpage is [Google](https://www.google.com/)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
+```{r}
+3 < 4
+```
+
+
+
+
