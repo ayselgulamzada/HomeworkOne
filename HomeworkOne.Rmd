@@ -43,5 +43,5 @@ My favorite webpage is [Google](https://www.google.com/)
 
 ![White Cat](photo-1606208427954-aa8319c4815e.jpg)
 
-
+**Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
