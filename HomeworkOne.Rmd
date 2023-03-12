@@ -18,3 +18,10 @@ My name is **Aysel**.
 **Question 2** With Markdown write a sentence that has one word in italic.
 
 I will meet my *friends*. 
+
+**Question 3** With Markdown write a sentence that has one word in italic bold.
+
+I am from **_Azerbaijan_**.
+
+
+
