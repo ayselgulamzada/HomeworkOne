@@ -5,9 +5,7 @@ output: html_document
 date: "2023-03-12"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 
 
@@ -45,8 +43,13 @@ My favorite webpage is [Google](https://www.google.com/)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
-```{r}
+
+```r
 3 < 4
+```
+
+```
+## [1] TRUE
 ```
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
@@ -57,7 +60,12 @@ $$
 
 **Question 10** In a code chunk calculate 3 + 4.
 
-```{r}
+
+```r
 3 + 4 
+```
+
+```
+## [1] 7
 ```
 
