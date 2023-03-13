@@ -41,7 +41,7 @@ My favorite webpage is [Google](https://www.google.com/)
 
 **Question 7** With Markdown add a cat picture.
 
-![White Cat](photo-1606208427954-aa8319c4815e.jpg)
+[White Cat]: photo-1606208427954-aa8319c4815e.jpg
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
